@@ -4,9 +4,10 @@ This shell just mini user custom shell...
 
 Installation
 -----
-Just download and type "make"!
-
-Then "myshell_exe" will make in that directory, you can execute it!
+After "git clone" this repository, go to that directory and type:
+'''
+make
+'''
 
 Notice
 -------
