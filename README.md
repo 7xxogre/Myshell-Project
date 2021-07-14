@@ -4,10 +4,11 @@ This shell just mini user custom shell...
 
 Installation
 -----
-After "git clone" this repository, go to that directory and type:
-'''
+After "git clone" this repository, go to that directory and enter:
+
+```
 make
-'''
+```
 
 Notice
 -------
